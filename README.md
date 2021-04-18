@@ -5,13 +5,13 @@
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511976303361&text=Hello!)](https://api.whatsapp.com/send?phone=5511973685629&text=Oi!)
 
 ---- 
+
 ### 🤙 Sobre mim
 - 🇧🇷 Brasileiro
-- ♍ 21 anos
+- ♍ 19 anos
 - 🧑‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Fatec Zona Leste
 - 🧑‍💻 Estagiário em Desenvolvimento de Software na B3 desde dezembro/2020
 - 💻 Desenvolvedor Back-End com foco na linguagem Java e experiência na criação e manutenção de middlewares, sistemas de mensageria e microsserviços
--->
 
 ----
 
