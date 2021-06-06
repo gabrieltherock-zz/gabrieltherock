@@ -30,6 +30,6 @@
 
 ----
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Meus status no GitHub 
+#### :octocat: Minhas estatísticas no GitHub 
    
 ![GabrielTheRock GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrieltherock&show_icons=true&theme=dark)
