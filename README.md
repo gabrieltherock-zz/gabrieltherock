@@ -10,7 +10,7 @@
 - 🇧🇷 Brasileiro
 - ♍ 19 anos
 - ♟️ Gosto de xadrez, jogos online e de assistir séries/futebol no meu tempo livre
-- 🧑‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Fatec Zona Leste
+- 🧑‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Fatec Zona Leste (6º semestre)
 - 🧑‍💻 Estagiário em Desenvolvimento de Software na B3 desde dezembro/2020
 - 💡 Desenvolvedor Back-End com foco na linguagem Java e experiência na criação e manutenção de middlewares, sistemas de mensageria e microsserviços
 - ✔️ Experiência trabalhando com metologias ágeis (SAFe e Scrum)
