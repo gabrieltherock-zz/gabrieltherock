@@ -33,3 +33,4 @@
 ### :octocat:  Minhas estatísticas no GitHub 
    
 ![GabrielTheRock GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrieltherock&show_icons=true&theme=dark)
+![GabrielTheRock Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltherock&layout=compact&hide=html&theme=dark)
