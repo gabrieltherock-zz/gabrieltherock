@@ -8,7 +8,7 @@
 
 ### 🤙 Sobre mim
 - 🇧🇷 Brasileiro
-- ♍ 19 anos
+- ♍ 20 anos
 - ♟️ Gosto de xadrez, jogos online e de assistir séries/futebol no meu tempo livre
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na Fatec Zona Leste (6º semestre)
 - 💻 Analista desenvolvedor Java na B3 desde setembro/2021
