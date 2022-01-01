@@ -9,7 +9,7 @@
 ### 🤙 Sobre mim
 - 🇧🇷 Brasileiro
 - ♍ 20 anos
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas na Fatec Zona Leste
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste
 - 💻 Cargo atual: Desenvolvedor Java na B3 desde setembro/2021
 - ⌛ Experiências anteriores: Estagiário na B3 de dezembro/2020 a agosto/2021 | Estagiário na Vivo (Telefônica Brasil) de fevereiro/2020 a novembro/2020
 - 💡 Desenvolvedor Backend com foco na linguagem Java e experiência na criação e manutenção de sistemas de integração, sistemas de mensageria, SOAP Web Services e APIs REST.
